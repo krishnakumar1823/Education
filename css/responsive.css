@@ -1,0 +1,42 @@
+@media (max-width:568px){
+	.sec1-res-order-div1{
+		order:4 !important;
+	}
+	.sec1-res-order-div1 h1{
+		font-size:20px;
+		font-weight:500;
+		line-height:40px;
+	}
+	.sec1-res-order-div2{
+		order:3 !important;
+	}
+	.sec1-res-order-div3{
+		order:2 !important;
+		transition:all .5s ease-in-out;
+	}
+	.sec1-res-order-div4{
+		order:1 !important;
+	}
+	.sec1-res-btn-div2{
+		text-align:center;
+	}
+	.about-img img{
+		width: 90%;
+	}
+	.menubar{
+		width: 85% !important;;
+	}
+}
+@media (max-width:786px){
+	.menubar{
+		width:50%;
+	}
+}
+@media (min-width:992px){
+	.sec1-div2-col-3{
+		position:absolute;
+		bottom:0;
+		left:65px;
+		transition:all .5s ease-in-out;
+	}
+} 
