@@ -18,7 +18,9 @@
 	font-weight:900;
 	line-height:85px;
 }
-
+#Home,#About,#Courses,#Pages,#Blog{
+  padding-top: 30px;
+}
 .sec1-div1-border{
 	border-left:3px solid #525FE1;
 	padding-left:20px;
